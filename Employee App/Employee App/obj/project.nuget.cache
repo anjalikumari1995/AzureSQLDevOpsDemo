@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iVTH5hWtDkqDCS+YGekD3wfku8dCwfzoP/yg7srTjztliVsbLp2zJT2plaw7BB+slL2TvAf6gDV9/MDSZgVHkw==",
+  "success": true,
+  "projectFilePath": "c:\\AzureSQLDevOpsDemo\\Employee App\\Employee App\\Employee App.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.ag.kumari\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\a.ag.kumari\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

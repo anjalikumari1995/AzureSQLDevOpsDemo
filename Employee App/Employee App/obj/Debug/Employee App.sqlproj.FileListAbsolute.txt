@@ -1,0 +1,10 @@
+c:\AzureSQLDevOpsDemo\Employee App\Employee App\bin\Debug\Employee App.dacpac
+c:\AzureSQLDevOpsDemo\Employee App\Employee App\bin\Debug\Employee App.dll
+c:\AzureSQLDevOpsDemo\Employee App\Employee App\bin\Debug\Employee App.pdb
+c:\AzureSQLDevOpsDemo\Employee App\Employee App\obj\Debug\Employee App.sqlprojAssemblyReference.cache
+c:\AzureSQLDevOpsDemo\Employee App\Employee App\obj\Debug\Model.xml
+c:\AzureSQLDevOpsDemo\Employee App\Employee App\obj\Debug\refactor.xml
+c:\AzureSQLDevOpsDemo\Employee App\Employee App\obj\Debug\postdeploy.sql
+c:\AzureSQLDevOpsDemo\Employee App\Employee App\obj\Debug\predeploy.sql
+c:\AzureSQLDevOpsDemo\Employee App\Employee App\obj\Debug\Employee App.dll
+c:\AzureSQLDevOpsDemo\Employee App\Employee App\obj\Debug\Employee App.pdb
